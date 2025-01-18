@@ -1,0 +1,1 @@
+This is my first pet project, which is oriented to help people track their expenses, view statistic on how and on what they spend their money and just be generally a nice project. Anything from the codebase is a subject to change, so the code will eventually be refactored at any time.
